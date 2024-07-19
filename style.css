@@ -1,0 +1,17 @@
+.calc-wrap {
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    max-width: 400px;
+    margin: 0 auto;
+}
+.calc-wrap form {
+    display: flex;
+    flex-direction: column;
+}
+.calc-wrap form pre {
+    margin: 0 0 10px;
+}
+.calc-wrap input[type="submit"] {
+    margin-top: 10px;
+}
